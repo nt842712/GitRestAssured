@@ -13,10 +13,13 @@ public class addPlace {
 	private String website;
 	private String language;
 	
+	
+	
 	public List<String> getTypes() {
 		return types;
 	}
 	public void setTypes(List<String> types) {
+		//System.out.println();
 		this.types = types;
 	}
 	public location getLocation() {
