@@ -20,6 +20,9 @@ public class addPlace {
 	}
 	public void setTypes(List<String> types) {
 		//System.out.println();
+		//System.out.println();
+		//System.out.println();
+		//System.out.println();
 		this.types = types;
 	}
 	public location getLocation() {
